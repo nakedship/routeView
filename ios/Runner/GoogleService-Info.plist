@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1018177935145-50v7u15k6853t2nlp2kcbe978bmh7qq4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1018177935145-50v7u15k6853t2nlp2kcbe978bmh7qq4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1018177935145-6s2216s15dvkf9m0e6pbjotlnjctb46f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDeQUftisPlZ4yzC9VSz3_8ZwE6d4qbGDo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1018177935145</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.flutterflow.ridedriver</string>
+	<key>PROJECT_ID</key>
+	<string>nakedship-85d7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nakedship-85d7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1018177935145:ios:7bd5f458c6fee9aada4938</string>
+</dict>
+</plist>
